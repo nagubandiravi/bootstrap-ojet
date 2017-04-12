@@ -1,15 +1,15 @@
-# Oracle JET version 3.0.0
+# Oracle JET with Bootstrap CSS
 
 ## About this repository
 This repository is a boilerplate of Oracle JET with Bootstrap CSS
 
-## About Oracle JET
+## About Oracle JET - v3.0.0
 Oracle JET is targeted at intermediate to advanced JavaScript developers working on client-side applications. It's a collection of open source JavaScript libraries along with a set of Oracle contributed JavaScript libraries that make it as simple and efficient as possible to build applications that consume and interact with Oracle products and services, especially Oracle Cloud services.
 
 This is an open source project maintained by Oracle Corp.
 
 
-## About Bootstrap
+## About Bootstrap - v3.3.5
 Sleek, intuitive, and powerful front-end framework for faster and easier web development. 
 
 ### Features and Benefits:
