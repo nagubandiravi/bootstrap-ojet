@@ -1,0 +1,32 @@
+{
+  "name": "app-boilerplate",
+  "version": "3.0.0",
+  "license": "UPL-1.0",
+  "author": "Rohit Roy",
+  "description": "OJET implementation with css",
+  "keywords": [
+    "oraclejet"
+  ],
+  "dependencies": {
+    "es6-promise": "4.0.5",
+    "hammerjs": "2.0.8",
+    "jquery": "3.1.1",
+    "jquery-ui": "1.12.0",
+    "signals": "1.0.0",
+    "knockout": "3.4.0",
+    "requirejs": "2.3.2",
+    "requirejs-text": "2.0.15",
+    "webcomponents.js": "0.7.24",
+    "proj4": "2.3.14",
+    "require-css": "0.1.8",
+    "grunt": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  } 
+}
